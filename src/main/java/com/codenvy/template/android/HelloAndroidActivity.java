@@ -1,4 +1,4 @@
-//Explode
+//Kael-S
 package com.codenvy.template.android;
 
 import android.app.Activity;
